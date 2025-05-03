@@ -28,5 +28,9 @@ Developed a web application for managing personal diary entries using ASP.NET Co
 4. Launch the application via Visual Studio or `dotnet run`.
 
 ---
-
 © 2025 - DiaryApplication
+
+
+
+
+![image](https://github.com/user-attachments/assets/1c1a3a57-bfba-4cbc-8934-3fd0bbb43422)
